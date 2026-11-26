@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ejercicios_Guiados_P2.iml" filepath="$PROJECT_DIR$/Ejercicios_Guiados_P2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arreglos/analisis_modulos/analisis_modulos.iml" filepath="$PROJECT_DIR$/arreglos/analisis_modulos/analisis_modulos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arraylist/arraylist.iml" filepath="$PROJECT_DIR$/arraylist/arraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arreglos/arreglos.iml" filepath="$PROJECT_DIR$/arreglos/arreglos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arraylist/carrito_compras/carrito_compras.iml" filepath="$PROJECT_DIR$/arraylist/carrito_compras/carrito_compras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arreglos/catalogo_digital/catalogo_digital.iml" filepath="$PROJECT_DIR$/arreglos/catalogo_digital/catalogo_digital.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arraylist/control_sensores/control_sensores.iml" filepath="$PROJECT_DIR$/arraylist/control_sensores/control_sensores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/herencia/dispositivos_industriales/dispositivos_industriales.iml" filepath="$PROJECT_DIR$/herencia/dispositivos_industriales/dispositivos_industriales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/herencia/equipos_red/equipos_red.iml" filepath="$PROJECT_DIR$/herencia/equipos_red/equipos_red.iml" />
+      <module fileurl="file://$PROJECT_DIR$/herencia/herencia.iml" filepath="$PROJECT_DIR$/herencia/herencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arreglos/inventario_red/inventario_red.iml" filepath="$PROJECT_DIR$/arreglos/inventario_red/inventario_red.iml" />
+      <module fileurl="file://$PROJECT_DIR$/herencia/metodos_pago/metodos_pago.iml" filepath="$PROJECT_DIR$/herencia/metodos_pago/metodos_pago.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arreglos/monitoreo_sensores/monitoreo_sensores.iml" filepath="$PROJECT_DIR$/arreglos/monitoreo_sensores/monitoreo_sensores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arraylist/proyecto_desarrolladores/proyecto_desarrolladores.iml" filepath="$PROJECT_DIR$/arraylist/proyecto_desarrolladores/proyecto_desarrolladores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arraylist/red_dispositivos/red_dispositivos.iml" filepath="$PROJECT_DIR$/arraylist/red_dispositivos/red_dispositivos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/herencia/usuarios_sistema/usuarios_sistema.iml" filepath="$PROJECT_DIR$/herencia/usuarios_sistema/usuarios_sistema.iml" />
+    </modules>
+  </component>
+</project>
